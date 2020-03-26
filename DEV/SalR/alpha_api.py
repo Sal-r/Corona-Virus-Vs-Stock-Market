@@ -1,1 +1,0 @@
-api_key = "SUC2LM2CEDS5XZ5E"
